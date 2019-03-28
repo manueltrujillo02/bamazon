@@ -1,7 +1,7 @@
 -------pseudocode-----
 subtract user input from the the quantity in the table.
 ------------------------
-grap user input and parseInt to turn from a string into a number.
+grap user input and parseInt to turn it from a string into a number.
 ------------------------
 grap the the quantity from the products table and turn the string into a number.
 -----------------------

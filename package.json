@@ -1,0 +1,19 @@
+{
+  "name": "ucsd201902fsf3-ft",
+  "version": "1.0.0",
+  "description": "Welcome to class repo where you will find all activites, homework, supplemental, and powerpoint presentations from the class.",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://ucsd.bootcampcontent.com/UCSD-Coding-Bootcamp/UCSD201902FSF3-FT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.2.2",
+    "mysql": "github:mysqljs/mysql"
+  }
+}
